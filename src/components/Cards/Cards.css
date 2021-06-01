@@ -1,0 +1,14 @@
+.cards img{
+    width: 200px;
+}
+.cards {
+    background-color: white;
+    width:250px;
+    margin: 20px;
+    padding:20px;
+    text-align: center;
+    height:250px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+}

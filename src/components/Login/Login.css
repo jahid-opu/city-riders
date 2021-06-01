@@ -1,0 +1,22 @@
+.link{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.form-section {
+    text-align: center;
+    padding-top:50px;
+    width: 500px;
+    margin:auto;
+    /* background-color:rgba(250, 128, 114, 0.87); */
+    margin-top:5%;
+    margin-bottom:5%;
+    padding-bottom: 5%;
+    border: 1px solid rgba(0, 0, 0, 0.452);
+}
+.form-group {
+    text-align: center;
+    width: 80%;
+    margin:auto;
+
+}

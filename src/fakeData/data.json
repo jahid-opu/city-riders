@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "bike",
+    "imgURL": "https://i.ibb.co/hL7zLSH/vippng-com-motorbike-png-851108.png",
+    "price": "30"
+  }, {
+    "id": 2,
+    "name": "car",
+    "imgURL": "https://i.ibb.co/f13kS3X/Daco-4893332.png",
+    "price": "50"
+  }, {
+    "id": 3,
+    "name": "bus",
+    "imgURL": "https://i.ibb.co/dcKnytt/pngwing-com.png",
+    "price": "20"
+  }, {
+    "id": 4,
+    "name": "metro",
+    "imgURL": "https://i.ibb.co/YNYz41L/tram-PNG3.png",
+    "price": "15"
+  }]

@@ -1,0 +1,20 @@
+.row {
+    padding: 50px 50px 50px 20px;
+}
+.row img{
+    width: 80px;
+}
+.pick-form {
+    background-color:rgba(192, 192, 192, 0.397);
+    padding: 40px 20px;
+}
+
+.cardText{
+    padding: 20px 0;
+    line-height: 10px;
+    display:flex;
+    justify-content:space-around;
+}
+.map {
+    height: 500px;
+}
